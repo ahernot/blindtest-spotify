@@ -37,6 +37,7 @@ const App = () => {
       </header>
       <div className="App-images">
         <p>Il va falloir modifier le code pour faire un vrai Blindtest !</p>
+        <p>Extra text</p>
       </div>
       <div className="App-buttons">
       </div>
